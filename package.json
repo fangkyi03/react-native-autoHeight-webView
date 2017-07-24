@@ -1,0 +1,24 @@
+{
+  "name": "react-native-atuoheight-webview",
+  "version": "1.0.3",
+  "description": "一个自动适配大小的webView",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangkyi03/react-native-autoHeight-webView.git"
+  },
+  "keywords": [
+    "react-native",
+    "webview",
+    "autoHtml"
+  ],
+  "author": "fangkyi03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangkyi03/react-native-autoHeight-webView/issues"
+  },
+  "homepage": "https://github.com/fangkyi03/react-native-autoHeight-webView#readme"
+}
